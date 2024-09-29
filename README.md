@@ -1,4 +1,4 @@
-## Welcome to my Github Profile
+# Welcome to my Github Profile
 
 My name is Chen Wei Lun and I am currently a third-year computer science student.
 
