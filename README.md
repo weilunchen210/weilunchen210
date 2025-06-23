@@ -4,7 +4,7 @@
 - 🏫 A computer science graduate from Sunway University  
   
 
-- 🔭 I’m currently working on improving my backend development skills, specifically with Spring Boot  
+- 🔭 I’m currently working on improving my full stack development skills, specifically with Spring Boot, Node.js (Express) and React.
   
 
 - 🌱 I can be reached through my email: weilunchen210@gmail.com  
