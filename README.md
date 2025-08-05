@@ -1,7 +1,7 @@
 ### <div align="center">I'm Wei Lun, a full-time full-stack developer. </div>  
   
 
-- 🏫 A computer science graduate from Sunway University  
+- 🏫 Software Engineer with a Computer Science Degree from Sunway University
   
 
 - 🔭 I’m currently working on improving my full stack development skills, specifically with Spring Boot, Node.js (Express) and React.
